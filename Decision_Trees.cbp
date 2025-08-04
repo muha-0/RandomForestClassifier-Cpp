@@ -34,12 +34,22 @@
 		</Compiler>
 		<Unit filename="evaluate.cpp" />
 		<Unit filename="evaluate.h" />
+		<Unit filename="include/evaluate.h" />
+		<Unit filename="include/preprocessing.h" />
+		<Unit filename="include/random_utils.h" />
+		<Unit filename="include/utils.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="preprocessing.cpp" />
 		<Unit filename="preprocessing.h" />
 		<Unit filename="random_forest.cpp" />
 		<Unit filename="random_utils.cpp" />
 		<Unit filename="random_utils.h" />
+		<Unit filename="src/evaluate.cpp" />
+		<Unit filename="src/main.cpp" />
+		<Unit filename="src/preprocessing.cpp" />
+		<Unit filename="src/random_forest.cpp" />
+		<Unit filename="src/random_utils.cpp" />
+		<Unit filename="src/utils.cpp" />
 		<Unit filename="utils.cpp" />
 		<Unit filename="utils.h" />
 		<Extensions>

@@ -9,7 +9,7 @@ using namespace std;
 
 
 int main2(){
-    vector <vector <string> > data = read_csv("pulsar_data_train.csv");
+    vector <vector <string> > data = read_csv("data/pulsar_data_train.csv");
     check_nulls(data);
     //index 8 is the target variable
     Mean method;
@@ -55,7 +55,7 @@ int main()
     if(response == "2"){
         return main2();
     }
-    vector <vector <string> > data = read_csv("Titanic-Dataset.csv");
+    vector <vector <string> > data = read_csv("data/Titanic-Dataset.csv");
     //The target variable is of index 1
     int target_variable_index = 1;
     //Lets do some data inspections
