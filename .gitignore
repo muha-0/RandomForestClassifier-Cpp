@@ -1,33 +1,5 @@
-# === Build folders ===
-/bin/
-/obj/
-
-# === Code::Blocks project files ===
-*.depend
+bin/
+obj/
 *.layout
-*.cbp.*
-
-# === Backup/temporary/system files ===
-*.exe
-*.out
-*.app
-*.log
-*.tmp
-*~
-
-# === OS-generated files ===
-.DS_Store
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-
-# === Compiled object files ===
-*.o
-*.obj
-
-# === Python __pycache__ (if any scripts/tools used)
-__pycache__/
-*.pyc
-
-# === VS Code (if used)
-.vscode/
+*.depend
+*.cbp
