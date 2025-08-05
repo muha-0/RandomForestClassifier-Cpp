@@ -10,7 +10,7 @@ This repository contains a custom-built **Random Forest Classifier in C++** that
   *(vs. scikit-learn’s cap at ~84.5%)*
 - **Higher Accuracy and F1 Score** in nearly all runs
 - Does everything exactly as the random forest classifier by sklearn but I tweaked some things a little bit
--  **Optimized** for:
+-   **Optimized** for:
   - Speed  
   - Low memory usage  
   - Deep recursion stability  
