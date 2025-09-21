@@ -1,6 +1,6 @@
 # RandomForestClassifier in C++.
 
-This repository contains a custom-built **Random Forest Classifier in C++** that outperformed scikit-learn's implementation on multiple datasets, including the **Titanic** and **Pulsar Star Classification** datasets.
+This repository contains a custom-built **Random Forest Classifier in C++** that outperformed scikit-learn's implementation on multiple datasets, including the **Titanic** and **Pulsar Star Classification** datasets. Data was preprocessed the same way exactly, used same seeds, same hyperparameters.
 
 ---
 
